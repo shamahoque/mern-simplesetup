@@ -3,11 +3,11 @@ import express from 'express'
 import { MongoClient } from 'mongodb'
 import template from './../template'
 //comment out before building for production
-import devBundle from './devBundle'
+//import devBundle from './devBundle'
 
 const app = express()
 //comment out before building for production
-devBundle.compile(app)
+//devBundle.compile(app)
 
 const CURRENT_WORKING_DIR = process.cwd()
 app.use('/dist', express.static(path.join(CURRENT_WORKING_DIR, 'dist')))
