@@ -6,7 +6,7 @@
 1. Node (13.12.0)
 2. NPM (6.14.4)
 3. MongoDB (4.2.0)
-4. Yarn (1.21.1)
+4. Yarn (1.22.4)
 
 
 ####  How to run this code
