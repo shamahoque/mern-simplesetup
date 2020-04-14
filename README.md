@@ -1,6 +1,6 @@
 # MERN - Simple Setup Check
 
-### [Live Demo](http://simplesetup.mernbook.com/ "MERN Simple Setup")
+### [Live Demo](http://simplesetup2.mernbook.com/ "MERN Simple Setup")
 
 #### What you need to run this code
 1. Node (13.12.0)
