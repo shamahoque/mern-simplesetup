@@ -1,5 +1,5 @@
 # MERN - Simple Setup Check
-[Get the updated second edition code here](https://github.com/shamahoque/mern-simplesetup/tree/second-edition) 
+* [Get the updated second edition code here](https://github.com/shamahoque/mern-simplesetup/tree/second-edition) 
 ---
 
 A simple application with Webpack, Babel, and Nodemon configuration to check development environment setup for React-Node-Express-MongoDB based web application development.
