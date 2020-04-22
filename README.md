@@ -1,4 +1,5 @@
-# MERN - Simple Setup Check
+# MERN - Simple Setup Check 2.0
+- Looking for the first edition code? [Check here](https://github.com/shamahoque/mern-simplesetup/tree/master)
 
 ### [Live Demo](http://simplesetup2.mernbook.com/ "MERN Simple Setup")
 
