@@ -11,7 +11,10 @@
 
 ####  How to run this code
 1. Clone this repository
-2. Open command line in the cloned folder, 
+2. Install [nvm](https://github.com/creationix/nvm) (for [windows](https://github.com/coreybutler/nvm-windows/releases))and set in terminal
+   - ```nvm install node@13.12.0```
+   - ```nvm use 13.12.0```
+3. Open command line in the cloned folder, 
    - To install dependencies, run ```  npm install  ``` or ``` yarn ```
    - To run the application for development, run ```  npm run development  ``` or ``` yarn development ```
 4. Open [localhost:3000](http://localhost:3000/) in the browser
